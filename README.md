@@ -1,0 +1,2 @@
+# Monitly - Plataforma de Monitoramento de Ativos
+Monitly é uma plataforma de monitoramento de ativos que permite aos usuários acompanhar o desempenho e a saúde de seus ativos em tempo real. Com uma interface intuitiva e recursos avançados, Monitly oferece uma solução completa para empresas e indivíduos que desejam otimizar a gestão de seus ativos
