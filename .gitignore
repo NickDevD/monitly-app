@@ -2,7 +2,7 @@ target/
 .idea
 *.iml
 
-** Variables environment files
+# Variables environment files
 .env
 .env.local
 .env.development.local
